@@ -2,4 +2,9 @@ onion
 tomato
 mirchi
 powders
+oil
 water
+
+
+
+
